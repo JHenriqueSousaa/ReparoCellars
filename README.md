@@ -15,4 +15,4 @@ A ReparoCellars é um sistema de gestão de reparações onde o utilizador atrav
 <br/>
 <br/>
 
-> NOTE: Ainda está numa fases experimental, tendo alguns problemas por resolver.
+> NOTA: Ainda está numa fases experimental, tendo alguns problemas por resolver.
