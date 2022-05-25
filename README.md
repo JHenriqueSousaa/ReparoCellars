@@ -24,8 +24,8 @@ A ReparoCellars é um sistema de gestão de reparações onde o utilizador atrav
 - **[Clientes](#features)** - Adicionar Clientes.
 - **[Reparações](#features)** - Adicionar reparações, onde é gerado um código de maneira aleatória.
 - **[Editar/Remover](#features)** - Editar e remover qualquer registo efetuado (o código é permanente no sentido que não é possível editar, contudo, é possível remover).
-- - **[Utilizador](#features)** - Página onde o utlizador poder procurar o código gerado, verificando o estado do seu produto, juntamente com observações feitas pelo administrador.
-- - **[Login](#features)** - Sistema de login para o administrador.
+- **[Utilizador](#features)** - Página onde o utlizador poder procurar o código gerado, verificando o estado do seu produto, juntamente com observações feitas pelo administrador.
+- **[Login](#features)** - Sistema de login para o administrador.
 
 **Em progresso:**
 
