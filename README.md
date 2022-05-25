@@ -6,7 +6,7 @@
   <p align="center">
   Gestão de Reparações
     <br />
-    <a href="https://reparocellars.onlinewebshop.net/"><strong>reparocellars.onlinewebshop.net»</strong></a>
+    <a href="https://reparocellars.onlinewebshop.net"><strong>reparocellars.onlinewebshop.net»</strong></a>
     <br />
     <br />
   </p>
